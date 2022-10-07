@@ -1,0 +1,32 @@
+body {
+    background-image: url(mysticaltree.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: white;
+    border: black;
+    text-align: center;
+    font-family: cursive;
+}
+p {
+    color: white;
+    width: 600px;
+        margin: 0 auto;
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+        font-style: bold;
+        font-weight: 100;
+        font-variant-ligatures: normal;
+        font-size: 4rem;
+        letter-spacing: 5px;
+        font-variant-caps:titling-caps;
+        text-align: center;
+}
+h2 {
+    Color: grey ;
+    width: 700px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-Size: 10px;
+    
+
+}
